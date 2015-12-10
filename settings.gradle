@@ -1,0 +1,2 @@
+include ':diary'
+include 'adapter', 'intent', 'sqlite', 'diary'
